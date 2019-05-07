@@ -19,7 +19,7 @@
 
 # 大沽路基本货币单位
 
-- **U** 价格为 30-35 元不等，具体价格由货币发行商 `Grandson Like Down` 简称 `Grandson` 确定
+- **U** 价格为 30-35 元不等，具体价格由货币发行商 `Grandson Like Sunlight` 简称 `Grandson` 确定
 - **d** 价格等于一袋干脆面，价值 0.5 元
 
 # 大沽路四大天王
