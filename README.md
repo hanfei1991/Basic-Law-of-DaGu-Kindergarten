@@ -2,7 +2,8 @@
 Just for fun and a piece of unforgettable memory.
 
 # Content
-- basic[basic.md]
-- proverb[proverb.md]
+- [basic law](constitution.md)
+- proverb
+- events
 
 # Members
