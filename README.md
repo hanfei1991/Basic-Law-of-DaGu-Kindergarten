@@ -1,2 +1,8 @@
 # Constitution-of-DaGu-Road
-Just for an unforgettable memory.
+Just for fun and a piece of unforgettable memory.
+
+# Content
+- basic[basic.md]
+- proverb[proverb.md]
+
+# Members
