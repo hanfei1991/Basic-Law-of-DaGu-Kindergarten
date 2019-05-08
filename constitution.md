@@ -45,4 +45,4 @@ AP Team 的所有提交需保证
 # 食品安全责任员
 
 - Brother Clever 有权定义任何食品的热量
-- Miss Silience 有权鉴定将**半瓶**可乐放入冰箱的元凶
+- Miss Silence 有权鉴定将**半瓶**可乐放入冰箱的元凶
