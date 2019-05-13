@@ -46,3 +46,8 @@ AP Team 的所有提交需保证
 
 - Brother Clever 有权定义任何食品的热量
 - Miss Silence 有权鉴定将**半瓶**可乐放入冰箱的元凶
+
+# template\<`T`\> 冰箱守恒定律
+
+- 每当取出一瓶冰饮料 `T`， 需放入一瓶常温饮料 `T`
+- 当 `T` 不足时，召唤食品安全责任员 Miss Silence
